@@ -1,4 +1,30 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game 🎮
+
+This is a web-based implementation of the classic 2048 puzzle game. The goal is to merge tiles with the same numbers and reach 2048.
+
+# Live Demo
+
+Experience the game here: [2048 Game DEMO LINK](https://ivan1302.github.io/2048_Game/)
+
+# Technologies Used
+
+* HTML5
+* SCSS
+* JavaScript (Vanilla JS)
+* Parcel
+
+# Getting Started
+
+* git clone https://github.com/ivan1302/2048_Game.git
+* cd 2048_Game
+* npm install
+* npm start
+
+# Features
+
+* Responsive layout
+* Keyboard controls (arrow keys)
+* Game logic with merging tiles
+* Score tracking
+* Restart functionality
+* Clean UI
